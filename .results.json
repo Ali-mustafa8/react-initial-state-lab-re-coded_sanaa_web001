@@ -5,29 +5,29 @@
     "passes": 5,
     "pending": 0,
     "failures": 0,
-    "start": "2021-03-22T00:02:22.457Z",
-    "end": "2021-03-22T00:02:22.470Z",
+    "start": "2021-03-22T00:03:22.427Z",
+    "end": "2021-03-22T00:03:22.440Z",
     "duration": 13
   },
   "tests": [
     {
       "title": "should set the `currentSlideIndex` to 0 on its state",
       "fullTitle": "<ImageSlider /> should set the `currentSlideIndex` to 0 on its state",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "render the correct text",
       "fullTitle": "<ImageSlider /> render the correct text",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should set the `secondsLeft` to the value of the `initialCount` prop",
       "fullTitle": "<Bomb /> should set the `secondsLeft` to the value of the `initialCount` prop",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -52,21 +52,21 @@
     {
       "title": "should set the `currentSlideIndex` to 0 on its state",
       "fullTitle": "<ImageSlider /> should set the `currentSlideIndex` to 0 on its state",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "render the correct text",
       "fullTitle": "<ImageSlider /> render the correct text",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should set the `secondsLeft` to the value of the `initialCount` prop",
       "fullTitle": "<Bomb /> should set the `secondsLeft` to the value of the `initialCount` prop",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
